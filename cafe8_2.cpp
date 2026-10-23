@@ -64,7 +64,7 @@ void task3() {
     char code;
     int portions;
     double price;
-    const char* category;
+    char category;
 
     cout << "Enter dish code (M/S/D) and number of portions: ";
     cin >> code >> portions;
